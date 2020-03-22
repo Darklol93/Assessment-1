@@ -3,7 +3,7 @@
 <body>
 
 <h1>Assessment 1 <br>
-Introduction IT <br>
+Introduction to IT <br>
 My Profile: Jake Waterson - s3857894</h1>
 
 <h1>Personal Information</h1>
