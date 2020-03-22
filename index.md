@@ -35,7 +35,7 @@ Additionally, I worked as Desktop Support Technician as a contractor to Defence,
 <h1>Ideal Job</h1>
 
 <img src="Assessment 1/Pictures/Ideal Job Part 1.png" alt="This image shows my ideal job, which is to work at Google as a developer"><br>
-<img src="Pictures\Ideal Job Part 2.png" alt="This image shows my ideal job, which is to work at Google as a developer"><br>
+<img src="Assessment 1/Pictures/Ideal Job Part 2.png" alt="This image shows my ideal job, which is to work at Google as a developer"><br>
 <br>
 URL for advertised job: <br>
 //careers.google.com/jobs/results/128706410675348166-software-engineer/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=Canberra,%20Australia&location=Sydney,%20Australia&q=developer&sort_by=relevance
@@ -68,9 +68,9 @@ URL for advertised job: <br>
 <p>(What is my Learning Style, n.d.)</p>
 
 <h2>Big Five Personality Test:</h2>
-<img src="Pictures\Big Five Personality Test - Image 1.png" alt="Your Personality Trait Scores"><br><p>Alpha(Truity.com, n.d. Personality Test.)</p>
-<img src="Pictures\Big Five Personality Test - Image 2.png" alt="Your Openness Score in Depth"><br><p>Bravo(Truity.com, n.d. Personality Test.)</p>
-<img src="Pictures\Big Five Personality Test - Image 3.png" alt="Core Pattern"><br><p>Charlie(Truity.com, n.d. Personality Test.)</p>
+<img src="Assessment 1/Pictures/Big Five Personality Test - Image 1.png" alt="Your Personality Trait Scores"><br><p>Alpha(Truity.com, n.d. Personality Test.)</p>
+<img src="Assessment 1/Pictures/Big Five Personality Test - Image 2.png" alt="Your Openness Score in Depth"><br><p>Bravo(Truity.com, n.d. Personality Test.)</p>
+<img src="Assessment 1/Pictures/Big Five Personality Test - Image 3.png" alt="Core Pattern"><br><p>Charlie(Truity.com, n.d. Personality Test.)</p>
 <p>(Truity.com, n.d. Personality Test.)</p>
 
 <h2> What do the results of these tests mean for you?</h2>
