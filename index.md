@@ -34,7 +34,7 @@ Additionally, I worked as Desktop Support Technician as a contractor to Defence,
 
 <h1>Ideal Job</h1>
 
-<img src="Assessment-1/Assessment 1/Pictures/Ideal Job Part 1.png" alt="This image shows my ideal job, which is to work at Google as a developer"><br>
+<img src="Assessment-1/Assessment 1/Pictures/Ideal%Job%Part%1.png" alt="This image shows my ideal job, which is to work at Google as a developer"><br>
 <img src="Pictures\Ideal Job Part 2.png" alt="This image shows my ideal job, which is to work at Google as a developer"><br>
 <br>
 URL for advertised job: <br>
