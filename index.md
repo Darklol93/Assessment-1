@@ -60,7 +60,7 @@ URL for advertised job: <br>
 
 <h1>Personal Profile</h1>
 <h2>Results of an online Myers-Briggs test:</h2>
-<img src="Assessment 1/Pictures/Myers Briggs test - Waterson.png" alt="This picture shows the results of a Myers brig test">
+<img src="Assessment 1/Pictures/Myers Briggs Test - Waterson.png" alt="This picture shows the results of a Myers brig test">
 <p>(My Personality Test, 2018-2020.)</p>
 
 <h2>Results of a online learning style test:</h2>
