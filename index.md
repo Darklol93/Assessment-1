@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -123,7 +122,7 @@ We have soon blockbuster footage of AI running complex algorithms down to openin
      <ol>For example:<br>
 <li>Artificial Intelligence designed to be able to learn from many sources of information. This will be from multiple sources, such as processing information from multiple databases, whether that is information on websites or a Medical Systems.  Another source that will be a focus point is humans and animals. We want to be able to teach the AI to recognise human feelings and emotions so it is able to interact with society with a personality. It is also important that we are able to teach it how interact with humans so it eliminates that ‘talking to a machine mentality’</li>
 <li>Problem solving will be another core focus of the AI solution. As the solution will be able to quickly process information, we want to be able to teach it how to solve problems or in a matter of speaking thing for its self to take action. A brief example of this could be using Artificial Intelligence to process a Medical Chart and symptoms of a patient and help provide a diagnosis.</li>
-<li>As one of the core concepts of Artificial Intelligence is to work with humans, it will need to understand them. It will need to use social intelligence to understand emotions feelings and reactions. Once the system is able to understand this, it could help find ways to communicate with people that have Autism or are socially impaired. The AI system would also use social intelligence for general interaction with humans, potentially giving it emotions and reactions to minimize the machine to human segregation.</p></li>
+<li>As one of the core concepts of Artificial Intelligence is to work with humans, it will need to understand them. It will need to use social intelligence to understand emotions feelings and reactions. Once the system is able to understand this, it could help find ways to communicate with people that have Autism or are socially impaired. The AI system would also use social intelligence for general interaction with humans, potentially giving it emotions and reactions to minimize the machine to human segregation.</li>
      </ol>
 
      <h2>Tools and Technology</h2>
@@ -131,7 +130,7 @@ We have soon blockbuster footage of AI running complex algorithms down to openin
 <ol>
 <li>A. Git repository – This will allow the developers to simultaneously work on code and keep track of changes. Additionally, as it is saved to the repository you can access this as long as you have access to a workstation and an internet connection. Furthermore, it serves as a backup solution.</li>
 <li>B. Red hat OpenShift – This will allow a Scalable environment,we will be able to rapidly develop and deploy , it also is portable allowing to be easily shifted between (for example) Amazon Web Service or Microsoft Azure.</li>
-<li>C. Code editor - This is the application that will assist you in writing the code. It will help you select the required format (I.E Python) and it will detect errors and assist in debugging. </p></li>
+<li>C. Code editor - This is the application that will assist you in writing the code. It will help you select the required format (I.E Python) and it will detect errors and assist in debugging.</li>
 </ol>
 
 
